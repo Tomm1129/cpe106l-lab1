@@ -1,1 +1,1 @@
-# cpe106l-lab1
+print("Hello, Software Design Laboratory")
